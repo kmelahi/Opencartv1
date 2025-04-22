@@ -1,0 +1,55 @@
+2025-04-21 21:21:41 INFO  SearchProduct:14 - **********Starting My Account Page*************
+2025-04-21 21:21:42 INFO  SearchProduct:16 - **********Clicking on Search Box*************
+2025-04-21 21:21:42 INFO  SearchProduct:18 - **********Inserting Product in Searchbox*************
+2025-04-21 21:21:47 INFO  LoginTest:17 - **************Initiating Login Page****************
+2025-04-21 21:21:47 INFO  LoginTest:19 - **********Insert Email*************
+2025-04-21 21:21:47 INFO  LoginTest:21 - **********Insert Pass*************
+2025-04-21 21:21:47 INFO  LoginTest:23 - **********Click Login*************
+2025-04-21 21:58:55 INFO  AccountRegistration:15 - **********Starting Account Registration*************
+2025-04-21 21:58:55 INFO  AccountRegistration:17 - Created java faker class to generate data
+2025-04-21 21:58:55 INFO  AccountRegistration:19 - HomePage launched
+2025-04-21 21:58:55 INFO  AccountRegistration:21 - My Account got clicked
+2025-04-21 21:58:56 INFO  AccountRegistration:23 - Register link got clicked
+2025-04-21 21:58:56 INFO  AccountRegistration:25 - Registration page factory invoked
+2025-04-21 21:58:56 INFO  AccountRegistration:27 - First name inserted
+2025-04-21 21:58:56 INFO  AccountRegistration:29 - Last name inserted
+2025-04-21 21:58:57 INFO  AccountRegistration:31 - Email got inserted
+2025-04-21 21:58:57 INFO  AccountRegistration:33 - Phone number got inserted
+2025-04-21 21:58:57 INFO  AccountRegistration:35 - Registration password inserted
+2025-04-21 21:58:57 INFO  AccountRegistration:37 - Registration password confirmed
+2025-04-21 21:58:57 INFO  AccountRegistration:39 - Subscription type confirmed
+2025-04-21 21:58:57 INFO  AccountRegistration:41 - Privacy policy confirmed
+2025-04-21 21:58:58 INFO  AccountRegistration:43 - Continue button got clicked
+2025-04-21 21:58:58 INFO  AccountRegistration:45 - Assertion massage validated
+2025-04-21 21:59:02 INFO  SearchProduct:12 - **********Starting Search Product Test*************
+2025-04-21 21:59:02 INFO  SearchProduct:14 - **********Starting My Account Page*************
+2025-04-21 21:59:03 INFO  SearchProduct:16 - **********Clicking on Search Box*************
+2025-04-21 21:59:03 INFO  SearchProduct:18 - **********Inserting Product in Searchbox*************
+2025-04-21 21:59:08 INFO  LoginTest:17 - **************Initiating Login Page****************
+2025-04-21 21:59:08 INFO  LoginTest:19 - **********Insert Email*************
+2025-04-21 21:59:08 INFO  LoginTest:21 - **********Insert Pass*************
+2025-04-21 21:59:08 INFO  LoginTest:23 - **********Click Login*************
+2025-04-21 22:08:35 INFO  AccountRegistration:15 - **********Starting Account Registration*************
+2025-04-21 22:08:35 INFO  AccountRegistration:17 - Created java faker class to generate data
+2025-04-21 22:08:35 INFO  AccountRegistration:19 - HomePage launched
+2025-04-21 22:08:35 INFO  AccountRegistration:21 - My Account got clicked
+2025-04-21 22:08:35 INFO  AccountRegistration:23 - Register link got clicked
+2025-04-21 22:08:35 INFO  AccountRegistration:25 - Registration page factory invoked
+2025-04-21 22:08:36 INFO  AccountRegistration:27 - First name inserted
+2025-04-21 22:08:36 INFO  AccountRegistration:29 - Last name inserted
+2025-04-21 22:08:36 INFO  AccountRegistration:31 - Email got inserted
+2025-04-21 22:08:36 INFO  AccountRegistration:33 - Phone number got inserted
+2025-04-21 22:08:36 INFO  AccountRegistration:35 - Registration password inserted
+2025-04-21 22:08:36 INFO  AccountRegistration:37 - Registration password confirmed
+2025-04-21 22:08:36 INFO  AccountRegistration:39 - Subscription type confirmed
+2025-04-21 22:08:36 INFO  AccountRegistration:41 - Privacy policy confirmed
+2025-04-21 22:08:37 INFO  AccountRegistration:43 - Continue button got clicked
+2025-04-21 22:08:37 INFO  AccountRegistration:45 - Assertion massage validated
+2025-04-21 22:08:41 INFO  SearchProduct:12 - **********Starting Search Product Test*************
+2025-04-21 22:08:41 INFO  SearchProduct:14 - **********Starting My Account Page*************
+2025-04-21 22:08:42 INFO  SearchProduct:16 - **********Clicking on Search Box*************
+2025-04-21 22:08:42 INFO  SearchProduct:18 - **********Inserting Product in Searchbox*************
+2025-04-21 22:08:47 INFO  LoginTest:17 - **************Initiating Login Page****************
+2025-04-21 22:08:47 INFO  LoginTest:19 - **********Insert Email*************
+2025-04-21 22:08:47 INFO  LoginTest:21 - **********Insert Pass*************
+2025-04-21 22:08:47 INFO  LoginTest:23 - **********Click Login*************
